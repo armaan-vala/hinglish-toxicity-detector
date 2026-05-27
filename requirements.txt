@@ -1,0 +1,10 @@
+pandas
+fastapi
+uvicorn[standard]
+transformers
+peft
+torch
+accelerate
+bitsandbytes
+jinja2
+python-multipart

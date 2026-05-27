@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.env
+.env
+*.log
+
+# Raw dataset (cleaned version is tracked)
+hinglish_toxic_dataset.csv
+
+# Large model files (LoRA adapter is tracked, base model downloads from HF Hub)
+model/adapter_model.safetensors
+
+# OS files
+Thumbs.db
+.DS_Store
