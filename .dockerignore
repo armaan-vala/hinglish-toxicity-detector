@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode
+.idea
+*.swp
+
+# Training & docs (not needed in production)
+training_colab.ipynb
+LEARNING.md
+HINGLISH_TOXICITY_DETECTOR_INTERVIEW_PREP.md
+README.md
+deploy/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Claude settings
+.claude
